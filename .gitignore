@@ -15,3 +15,8 @@ examples/*.pdf
 examples/earthdawncharacter.css
 examples/earthdawncharacter.xsd
 examples/earthdawncharacter.xsl
+out/
+*.iml
+.idea/
+.gradle
+.sdkmanrc
